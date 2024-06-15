@@ -1,0 +1,12 @@
+{
+    "AUTH_TOKEN": "",
+    "AUTO_UPGRADE": false,
+    "AUTO_UPGRADE_INTERVAL": 120,
+    "MAX_UPGRADE_PRICE": 10000000,
+    "MIN_BALANCE": 3000000,
+    "SEND_TAPS": true,
+    "CLAIM_DAILY_CIPHER": true,
+    "CLAIM_DAILY_TASK": true,
+    "DEVICE": "",
+    "HTTP_PROXY": ""
+}
